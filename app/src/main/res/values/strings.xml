@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Proyecto</string>
+    <string name="titulo">Dungeons And Dragons: Party Gestor</string>
+    <string name="crear_personaje">Crear Personaje</string>
+    <string name="cargar_personaje">Cargar Personaje</string>
+    <string name="Crear_partida">Crear Partida</string>
+    <string name="Cargar_partida">Cargar Partida</string>
 </resources>
